@@ -31,3 +31,4 @@ public class LoginTest {
         MobileElement usernameField = (MobileElement)new WebDriverWait(driver, 10).until(ExpectedConditions.visibilityOfElementLocated(By.id("")));
     }
 }
+//newfeature
